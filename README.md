@@ -24,3 +24,7 @@ Este es el backend de un sistema de login y gestión de usuarios desarrollado co
 - **Spring Security**: Para la configuración de seguridad, protección contra CSRF, y gestión de sesiones.
 - **OWASP**: Dependencias y filtros para sanitización de entradas y prevención de ataques.
 - **MySQL**: Base de datos utilizada para almacenar los usuarios.
+
+## 🔨 Modificaciones: 
+
+- **Agregar Correo y Contraseña de aplicacion**: MailConfig - application.properties
