@@ -27,4 +27,6 @@ Este es el backend de un sistema de login y gestión de usuarios desarrollado co
 
 ## 🔨 Modificaciones: 
 
-- **Agregar Correo y Contraseña de aplicacion**: MailConfig - application.properties
+- **Agregar Correo y Contraseña de aplicacion**: MailConfig - application.properties.
+- **Ejecuatar aplicacion y luego insertar en DB tabla roles "ADMIN" y "USER".
+
